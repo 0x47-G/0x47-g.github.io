@@ -6,7 +6,7 @@ title: Down The Rabbit Hole
 date: 1865-11-26 10:18:00
 tags: fiction
 subclass: 'post tag-fiction'
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/0x47.png'
 author: lewis
 categories: lewis
 published: false
