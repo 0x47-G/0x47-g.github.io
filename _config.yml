@@ -10,7 +10,7 @@ language: 'en-uk'
 name: '0x47'
 description: "All your base are belong to us"
 
-short_url: 'https://0x47/'
+short_url: 'https://0x47.dev/'
 google_analytics: UA-XXXXXX-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
